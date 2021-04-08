@@ -1,0 +1,6 @@
+framework module RookPodTest {
+  umbrella header "RookPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

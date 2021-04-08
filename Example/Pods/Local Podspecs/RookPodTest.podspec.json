@@ -1,0 +1,22 @@
+{
+  "name": "RookPodTest",
+  "version": "0.1.0",
+  "summary": "A short description of RookPodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/franciscoGERook/RookPodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "franciscoGERook": "francisco.guerrero@rookmotion.com"
+  },
+  "source": {
+    "git": "https://github.com/franciscoGERook/RookPodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "RookPodTest/Classes/**/*"
+}
